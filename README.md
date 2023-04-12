@@ -9,7 +9,7 @@
 
 
 ## Table of Contents
-* [High level approac](#High level approac)
+* [High level approach](#High level approach)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
