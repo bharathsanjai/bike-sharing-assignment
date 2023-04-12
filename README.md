@@ -53,5 +53,5 @@
  - https://towardsdatascience.com/verifying-the-assumptions-of-linear-regression-in-python-and-r-f4cd2907d4c0
 
 ## Contact
-Created by [@bharathsanjai] - feel free to contact me!
+Created by [@bharathsanjai](https://github.com/bharathsanjai) - feel free to contact me!
 
