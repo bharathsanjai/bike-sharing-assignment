@@ -9,7 +9,7 @@
 
 
 ## Table of Contents
-* [General Info](#general-information)
+* [High level approac](#High level approac)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
