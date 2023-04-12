@@ -1,5 +1,11 @@
 # Project Name
-> Outline a brief description of your project.
+> A US bike-sharing provider BoomBikes has recently suffered considerable dips in their revenues due to the ongoing Corona pandemic. BoomBikes aspires to understand the demand for shared bikes among the people after this ongoing quarantine situation ends across the nation due to Covid-19. 
+> they want to understand the factors affecting the demand for these shared bikes in the American market.
+
+- Which variables are significant in predicting the demand for shared bikes.
+- How well those variables describe the bike demands
+
+> You are required to model the demand for shared bikes with the available independent variables. It will be used by the management to understand how exactly the demands vary with different features.
 
 
 ## Table of Contents
@@ -10,43 +16,42 @@
 
 <!-- You can include any other section that is pertinent to your problem -->
 
-## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+## High level approach
+- Understand and clean up the data
+- EDA and inferences
+- Data preparation
+- Splitting data into training and test sets
+- Build model
+- Residual analysis
+- Making predictions
+- Evalute the model
+- Conclusion
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Train dataset R^2 : 0.824
+- Test dataset R^2 : 0.8089
+- Train dataset Adjusted R^2 : 0.821
+- Test dataset Adjusted R^2 : 0.7998
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- python 3.9
+- scikit-learn 1.0.2
+- stats model 0.13.2
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- This project is inspired by Hadi Fanaee-T's research  
 
+### References 
+ - https://www.kaggle.com/code/shrutimechlearn/step-by-step-assumptions-linear-regression 
+ - https://towardsdatascience.com/verifying-the-assumptions-of-linear-regression-in-python-and-r-f4cd2907d4c0
 
 ## Contact
 Created by [@bharathsanjai] - feel free to contact me!
 
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
