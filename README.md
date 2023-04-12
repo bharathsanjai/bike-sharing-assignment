@@ -1,4 +1,4 @@
-# Project Name
+# Bike Sharing Assignment
 > A US bike-sharing provider BoomBikes has recently suffered considerable dips in their revenues due to the ongoing Corona pandemic. BoomBikes aspires to understand the demand for shared bikes among the people after this ongoing quarantine situation ends across the nation due to Covid-19. 
 > they want to understand the factors affecting the demand for these shared bikes in the American market.
 
