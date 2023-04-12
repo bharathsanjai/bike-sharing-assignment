@@ -52,6 +52,6 @@
  - https://www.kaggle.com/code/shrutimechlearn/step-by-step-assumptions-linear-regression 
  - https://towardsdatascience.com/verifying-the-assumptions-of-linear-regression-in-python-and-r-f4cd2907d4c0
 
-## Contact
-Created by [@bharathsanjai](https://github.com/bharathsanjai) - feel free to contact me!
+## Author
+- [@bharathsanjai](https://github.com/bharathsanjai)
 
